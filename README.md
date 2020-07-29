@@ -1,9 +1,11 @@
-<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/octocat.png" />
+
 
 ### Hi folks 👋
 
 <!--
 **aliciapj/aliciapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/octocat.png" />
 
 Here are some ideas to get you started:
 -->
