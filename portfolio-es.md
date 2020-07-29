@@ -3,6 +3,7 @@
 ## Que la generación Z no rompa tus modelos
 
 <img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/generacion-z.png" />
+
 #### T3chFest 2020
 
 Feria de informática y nuevas tecnologías en la Universidad Carlos III. El evento fue aplazado indefinidamente por la crisis de la COVID-19 en España.
