@@ -10,6 +10,8 @@ Feria de informática y nuevas tecnologías en la Universidad Carlos III. El eve
 
 [Web](https://t3chfest.es/) | [Slides](https://docs.google.com/presentation/d/1upuzhZKCscnJ6QBeXupKkaGdtwsiqZfZFkajy5uN6nk/edit) | [Repo](https://github.com/aliciapj/xai-genz)
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/generacion-z.png" />
+
 #### PyConES 2019
 
 PyConES es la conferencia de la comunidad Python española. El evento se celebró por séptima vez en España del 04 al 06 de octubre de 2019 en Alicante.
@@ -18,11 +20,15 @@ PyConES es la conferencia de la comunidad Python española. El evento se celebr�
 
 ## The bad guys in AI: atacando sistemas de Machine Learning
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/bad-guys-ia.png" />
+
 #### T3chFest 2019
 
 Feria de informática y nuevas tecnologías en la Universidad Carlos III. El evento se celebró el 14 y 15 de marzo de 2019 en Getafe, Madrid.
 
 [Web](https://t3chfest.es/2019) | [Slides](https://docs.google.com/presentation/d/1eFjOTUm5eCP7lK2oy6phP2veRtdbQx5K2tppTwTB384/edit?usp=sharing) | [Repo](https://github.com/aliciapj/adversarial-networks) | [Video](https://www.youtube.com/watch?v=d-8DdW7MTxQ&feature=youtu.be) | [Más info](https://t3chfest.es/2019/programa/the-bad-guys-atacando-sistemas-machine-learning/?lang=es)
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/bad-guys-pycon.png" />
 
 #### PyConES 2018
 
@@ -32,6 +38,8 @@ PyConES es la conferencia de la comunidad Python española. El evento se celebr�
 
 ## Big Data en Fashion
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/big-data-fashion.png" />
+
 #### Data Konferences - KSchool 2018
 El evento fue organizado por la escuela KSchool en una jornada con charlas relacionadas con IA y Machine Learning. El evento se celebró el 5 de diciembre de 2018 en Madrid.
 
@@ -39,11 +47,15 @@ El evento fue organizado por la escuela KSchool en una jornada con charlas relac
 
 ## Keynote en DjangoGirls Madrid 2010
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/djangogirls.png" />
+
 Django Girls es una organización sin ánimo de lucro que organiza workshops de iniciación al framework Django para mujeres sin necesidad de conocimientos previos en el framework o en informática con el fin de acercar la informática a colectivos menos representados en el mundo de la tecnología y el desarrollo de software. El evento se realizó el 17 de noviembre de 2018 en Madrid.
 
 [Web](https://djangogirls.org/madrid1/) | [Slides](https://docs.google.com/presentation/d/1ZzeRoSHLhLN4JPOWtb6a_50A9oJlvBlpAkzedIRrWdY/edit?usp=sharing)
 
 ## Machine learning for product matching: the fashion use case [EN]
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/product-matching-bds.png" />
 
 #### Big Data Spain 2018 
 Big Data Spain (ahora Big Things Conference) es una conferencia sobre Data & IA. El evento se celebró del 13 al 15 de noviembre de 2018 en Madrid.
@@ -52,12 +64,16 @@ Big Data Spain (ahora Big Things Conference) es una conferencia sobre Data & IA.
 
 ## Py-Píldoras para tratar tu open data
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/pypildoras.png" />
+
 #### OpenExpo 2018
 OpenExpo lleva 7 años siendo una de las ventanas de divulgación en Innovación Tecnológica, Transformación Digital y Open Source. El evento se celebró el 6 y 7 de junio de 2018 en Madrid.
 
 [Web](https://openexpoeurope.com/es/) | [Slides](https://docs.google.com/presentation/d/1ybJ9zlepdjfkK9QGms0n58tkk_0vW5T1_GVWL5UxcV0/edit?usp=sharing) | [Repo](https://github.com/aliciapj/openexpo18-pyladies) | [Más info](https://openexpoeurope.com/es/session/py-pildoras-para-tratar-tu-open-data/)
 
 ## Geodjango y geoprocesamiento con Python
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/geodjango-pythonmadrid.png" />
 
 #### Python Madrid - Meetup
 Python Madrid es un grupo de meetup interesado en el lenguaje de programación Python o cualquier tecnología relacionada. El meetup se realizó el 15 de febrero de 2018 en Madrid;
@@ -66,12 +82,16 @@ Python Madrid es un grupo de meetup interesado en el lenguaje de programación P
 
 ## Retos de Programación y Estructuras de datos de Python
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/retos-programacion.png" />
+
 #### PyCon ES 2017
 PyConES es la conferencia de la comunidad Python española. El evento se celebró por quinta vez del 22 al 24 de septiembre de 2017 en Cáceres.
 
 [Web](https://2017.es.pycon.org/en/) | [Slides](https://docs.google.com/presentation/d/1Whz_EtcWXGf3x8qP8rstE-rBXWC4Dt-Otq-EGm84kcA/edit?usp=sharing) | [Video](https://www.youtube.com/watch?v=xQj_s8oj4Bw&t=27083s) | [Más info](https://2017.es.pycon.org/en/schedule/retos-de-programacion-y-estructuras-de-datos-de-python/)
 
 ## Aplicaciones Geográficas con Django - No sólo de Javascript viven los mapas
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/geodjango.png" />
 
 #### PyCon ES 2017
 PyConES es la conferencia de la comunidad Python española. El evento se celebró por quinta vez del 22 al 24 de septiembre de 2017 en Cáceres.
@@ -80,10 +100,14 @@ PyConES es la conferencia de la comunidad Python española. El evento se celebr�
 
 ## Beautiful Python
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/beautiful-python.png" />
+
 #### PyLadies Madrid - meetup
 PyLadies Madrid es una agrupación local de la organización internacional PyLadies, cuyo objetivo es ayudar y motivar a más mujeres para que sean participantes activas y líderes de la comunidad open source de Python. El meetup se realizó el 19 de octubre de 2017.
 
 [Web](https://www.meetup.com/PyLadiesMadrid/?_locale=es-ES) | [Slides](https://docs.google.com/presentation/d/1YxP9E0gsI5ZtH8Be05_-fUiZ702PztqH-3hq0wG3lG8/edit?usp=sharing) | [Más info](https://www.meetup.com/es-ES/PyLadiesMadrid/events/244035251/)
+
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/images/beautiful-python-pycones.png" />
 
 #### PyCon ES 2017
 PyConES es la conferencia de la comunidad Python española. El evento se celebró por cuarta vez del 7 a 9 de octubre de 2016 en Almería.
