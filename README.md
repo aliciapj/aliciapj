@@ -1,5 +1,7 @@
 ### Hi folks 👋
 
+<img width=256 align="right" src="https://github.com/aliciapj/aliciapj/blob/master/octocat.png" />
+
 <!--
 **aliciapj/aliciapj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
