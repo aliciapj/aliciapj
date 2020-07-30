@@ -1,3 +1,10 @@
+# Indice
+- [Charlas](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#charlas)
+- [Workshops](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#workshops)
+- [Artículos](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#articulos)
+- [Mentoring y voluntariado](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#mentoring-y-voluntariado)
+
+
 # Charlas
 
 ## Que la generación Z no rompa tus modelos
@@ -111,3 +118,13 @@ PyLadies Madrid es una agrupación local de la organización internacional PyLad
 PyConES es la conferencia de la comunidad Python española. El evento se celebró por cuarta vez del 7 a 9 de octubre de 2016 en Almería.
 
 [Slides](http://slides.com/aliciapj/beautifulpython) | [Video](https://www.youtube.com/watch?v=9xA6w3rmQ34) | [Más info](http://2016.es.pycon.org/es/schedule/beautiful-python-in-spanish/)
+
+
+# Workshops
+[Under construction]
+
+# Artículos
+[Under construction]
+
+# Mentoring y voluntariado
+[Under construction]
