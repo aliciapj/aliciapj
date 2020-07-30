@@ -1,7 +1,6 @@
-# Indice
 - [Charlas](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#charlas)
 - [Workshops](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#workshops)
-- [Artículos](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#articulos)
+- [Artículos](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#artículos)
 - [Mentoring y voluntariado](https://github.com/aliciapj/aliciapj/blob/master/portfolio-es.md#mentoring-y-voluntariado)
 
 
@@ -124,7 +123,9 @@ PyConES es la conferencia de la comunidad Python española. El evento se celebr�
 [Under construction]
 
 # Artículos
-[Under construction]
+
+Artículo de divulgación sobre el problema de los sesgos y justicia en algoritmos de machine learning, cómo afectan al negocio de la moda y qué metodos existen en el estado del arte actual para detectarlos y corregirlos. Publicado en junio de 2020 en el blog de [StyleSage.co](http://stylesage.co)
+https://stylesage.co/blog/fashion-tech-fairness-bias/
 
 # Mentoring y voluntariado
 [Under construction]
