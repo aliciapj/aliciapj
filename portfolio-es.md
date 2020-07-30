@@ -124,8 +124,8 @@ PyConES es la conferencia de la comunidad Python española. El evento se celebr�
 
 # Artículos
 
+## [Fashion, Tech, Fairness & Bias](https://stylesage.co/blog/fashion-tech-fairness-bias/)
 Artículo de divulgación sobre el problema de los sesgos y justicia en algoritmos de machine learning, cómo afectan al negocio de la moda y qué metodos existen en el estado del arte actual para detectarlos y corregirlos. Publicado en junio de 2020 en el blog de [StyleSage.co](http://stylesage.co)
-https://stylesage.co/blog/fashion-tech-fairness-bias/
 
 # Mentoring y voluntariado
 [Under construction]
