@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: :smiley_cat: :smiley_cat: :smiley_cat: :smiley_cat: :smiley_cat:
 
-[![Alicia's github stats](https://github-readme-stats.vercel.app/api?username=aliciapj)](https://github.com/anuraghazra/github-readme-stats)
 [![Alicia Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Alicia's github stats](https://github-readme-stats.vercel.app/api?username=aliciapj)](https://github.com/anuraghazra/github-readme-stats)
