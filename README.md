@@ -1,4 +1,4 @@
-<img width=256 align="right" src="https://github.com/PyLadiesMadrid/art/blob/master/logos/PNG/pyladiesmadrid_square-white.png" />
+<img width=256 align="right" src="https://github.com/PyLadiesMadrid/art/blob/master/logos/JPG/pyladiesmadrid_square-white.jpg" />
 
 ### Hi folks 👋
 
