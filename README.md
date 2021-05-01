@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 📫 Reach me on [Twitter](https://twitter.com/alipeji)
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: :smiley_cat: :smiley_cat: :smiley_cat: :smiley_cat: :smiley_cat:
-
-[![Alicia Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliciapj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
